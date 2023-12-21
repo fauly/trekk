@@ -18,7 +18,6 @@ const HomePage: React.FC = () => {
   return (
     <div>
       <h1>{heroSection.title}</h1>
-      {/* Render other homepage elements here */}
     </div>
   );
 };
